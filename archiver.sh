@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Data reading script
+# Archiver
 #
 if [ $# -ne 2 ]; then
   echo "Incorrect syntax!";
